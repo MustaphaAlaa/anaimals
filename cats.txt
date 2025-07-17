@@ -10,5 +10,4 @@ Roma 2
 Roma 3
 Lolo
 Gojo Satuorie
-Yujie itadorie
->>>>>>> 3b143b37bc064545ec39c05de0e421b57518e115 
+Yujie itadorie 
