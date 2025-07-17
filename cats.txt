@@ -3,5 +3,12 @@
 2Roma 2
 3Roma 3
 4Lolo
-5Gojo Satuorie
- 
+5Gojo Satuorie 
+Naruto
+Angel
+Roma 2
+Roma 3
+Lolo
+Gojo Satuorie
+Yujie itadorie
+>>>>>>> 3b143b37bc064545ec39c05de0e421b57518e115 
